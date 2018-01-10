@@ -1,0 +1,194 @@
+/* 
+    Document   : ertra_styles
+    Created on : May 24, 2013, 7:28:24 PM
+    Author     : MUTHURAJ
+    Description:
+        Purpose of the stylesheet follows.
+*/
+body{
+    background-color: #000000;
+}
+#information{
+    color: #ffffff;
+    border: 1px solid #7ED0E5;
+    border-radius: 4px 4px 4px 4px;
+    margin-bottom: 18px;
+    margin-left: 35px;
+    margin-bottom: 10px;
+    background-color: #009900;
+    padding: 8px 35px 8px 14px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+
+}
+#loader{
+    display: none;
+}
+#info{
+    color: #000000;
+    border: 1px solid #7ED0E5;
+    border-radius: 4px 4px 4px 4px;
+    margin-bottom: 18px;
+    margin-left: 35px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+    padding: 8px 35px 8px 14px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+#server_error{
+    color: #ffffff;
+    border: 1px solid #7ED0E5;
+    border-radius: 4px 4px 4px 4px;
+    margin-bottom: 18px;
+    margin-left: 35px;
+    margin-bottom: 10px;
+    background-color: #ff3300;
+    padding: 8px 35px 8px 14px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+#nam{
+    margin-left: 50px;
+
+}
+#name{
+    margin-left: 50px;
+}
+#error_name{
+    display: none;
+}
+#error_info{
+    display: none;
+}
+#error_phone{
+    display: none;
+}
+#email{
+
+}
+#username{
+
+}
+#password{
+    color: #000000;
+    border: 1px solid #7ED0E5;
+    border-radius: 4px 4px 4px 4px;
+
+    margin-bottom: 10px;
+    padding: 8px 35px 8px 14px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+#add{
+    margin-left: 40px;
+}
+#city{
+    margin-left: 50px;
+}
+#error_email{
+  display: none;
+}
+#send{
+    margin-top: 10px;
+    margin-left: 100px;
+}
+#phone{
+    margin-left: 30px;
+}
+#state{
+    margin-left: 30px;
+}
+#country{
+    margin-left: 60px;
+}
+
+.left{
+    float: left;
+    width: 50%;
+    position: relative;
+    margin-left: 10px;
+    height: auto;
+    margin-right: 10%;
+}
+.right{
+    float: right;
+    width: 50%;
+    position: relative;
+    margin-left: 10px;
+    height: auto;
+}
+.error{
+    color: #ff3300;
+    margin-left: 100px;
+    display: none;
+}
+#error_phone_digit{
+    display: none;
+}
+#error_phone_number{
+    display: none;
+}
+#error_email_invalid{
+    display: none;
+}
+#loader{
+    display: none;
+}
+input[type=text] {
+    color: #000000;
+    border: 1px solid #7ED0E5;
+    border-radius: 4px 4px 4px 4px;
+
+    margin-bottom: 10px;
+    padding: 8px 35px 8px 14px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+input[type=radio]{
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+#content_left{
+    width: 75%;
+    float: left;
+}
+#content_right{
+    width: 25%;
+    float: right;
+}
+#marquee_container{
+    color: #ffffff;
+
+}
+#header_back{
+    background-color: #000000;
+    color: #ffffff;
+}
+#blue{
+    background-color: #7ED0E5;
+}
+#white{
+    background-color: #ffffff;
+}
+.box {
+    -moz-border-radius-topright:5px;
+    -moz-border-radius-topleft:5px;
+    -webkit-border-top-right-radius:5px;
+    -webkit-border-top-left-radius:5px;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+   
+}
+
+.box h2 {background:#0094ff;color:white;padding:10px;}
+.box p {color:#333;padding:10px;}
+
+.box_temple {
+    -moz-border-radius-topright:5px;
+    -moz-border-radius-topleft:5px;
+    -webkit-border-top-right-radius:5px;
+    -webkit-border-top-left-radius:5px;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+   
+}
+
+.box_temple h2 {background:#0094ff;color:white;padding:10px;}
+.box_temple p {color:#333;padding:10px;}
